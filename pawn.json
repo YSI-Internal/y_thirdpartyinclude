@@ -7,6 +7,9 @@
 		"Y-Less/indirection",
 		"Y-Less/code-parse.inc"
 	],
+	"dev_dependencies": [
+		"sampctl/samp-stdlib"
+	],
 	"runtime": {
 		"version": "0.3.7",
 		"mode": "server",
